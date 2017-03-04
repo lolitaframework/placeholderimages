@@ -1,11 +1,11 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Icons;
+namespace placeholderimages\LolitaFramework\Controls\Icons;
 
-use \liveeditor\LolitaFramework\Controls\Control;
-use \liveeditor\LolitaFramework\Controls\IHaveAdminEnqueue;
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework;
-use \liveeditor\LolitaFramework\Core\Url;
+use \placeholderimages\LolitaFramework\Controls\Control;
+use \placeholderimages\LolitaFramework\Controls\IHaveAdminEnqueue;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework;
+use \placeholderimages\LolitaFramework\Core\Url;
 
 class Icons extends Control implements iHaveAdminEnqueue
 {

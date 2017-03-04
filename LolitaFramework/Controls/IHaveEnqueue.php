@@ -1,5 +1,5 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls;
+namespace placeholderimages\LolitaFramework\Controls;
 
 interface IHaveEnqueue
 {

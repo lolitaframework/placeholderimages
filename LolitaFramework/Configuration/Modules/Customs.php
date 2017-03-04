@@ -1,9 +1,9 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules;
+namespace placeholderimages\LolitaFramework\Configuration\Modules;
 
-use \liveeditor\LolitaFramework\Core\Data;
-use \liveeditor\LolitaFramework\Configuration\Configuration;
-use \liveeditor\LolitaFramework\Configuration\IModule;
+use \placeholderimages\LolitaFramework\Core\Data;
+use \placeholderimages\LolitaFramework\Configuration\Configuration;
+use \placeholderimages\LolitaFramework\Configuration\IModule;
 
 class Customs implements IModule
 {

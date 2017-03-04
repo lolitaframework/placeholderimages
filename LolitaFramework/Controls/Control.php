@@ -1,11 +1,11 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls;
+namespace placeholderimages\LolitaFramework\Controls;
 
-use \liveeditor\LolitaFramework\Core\Str;
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\View;
-use \liveeditor\LolitaFramework\Core\Url;
-use \liveeditor\LolitaFramework;
+use \placeholderimages\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\View;
+use \placeholderimages\LolitaFramework\Core\Url;
+use \placeholderimages\LolitaFramework;
 
 abstract class Control
 {

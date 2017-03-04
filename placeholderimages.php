@@ -13,10 +13,10 @@ Text Domain: placeholderimages
 // ==============================================================
 // Bootstraping
 // ==============================================================
-if (!class_exists('\liveeditor\LolitaFramework')) {
+if (!class_exists('\placeholderimages\LolitaFramework')) {
     require_once('LolitaFramework/LolitaFramework.php');
-    $lolita_framework = \liveeditor\LolitaFramework::getInstance(__DIR__);
-    \liveeditor\LolitaFramework::define('PI_BASE_DIR', $lolita_framework->baseDir());
-    \liveeditor\LolitaFramework::define('PI_BASE_URL', $lolita_framework->baseUrl());
+    $lolita_framework = \placeholderimages\LolitaFramework::getInstance(__DIR__);
+    \placeholderimages\LolitaFramework::define('PI_BASE_DIR', $lolita_framework->baseDir());
+    \placeholderimages\LolitaFramework::define('PI_BASE_URL', $lolita_framework->baseUrl());
     $lolita_framework->addModule('Configuration');
 }

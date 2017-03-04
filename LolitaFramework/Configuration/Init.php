@@ -1,5 +1,5 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration;
+namespace placeholderimages\LolitaFramework\Configuration;
 
 abstract class Init
 {

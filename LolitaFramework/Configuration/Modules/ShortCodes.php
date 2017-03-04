@@ -1,8 +1,8 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules;
+namespace placeholderimages\LolitaFramework\Configuration\Modules;
 
-use \liveeditor\LolitaFramework\Configuration\Configuration as Configuration;
-use \liveeditor\LolitaFramework\Configuration\IModule as IModule;
+use \placeholderimages\LolitaFramework\Configuration\Configuration as Configuration;
+use \placeholderimages\LolitaFramework\Configuration\IModule as IModule;
 
 class ShortCodes implements IModule
 {

@@ -1,9 +1,9 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration;
+namespace placeholderimages\LolitaFramework\Configuration;
 
-use \liveeditor\LolitaFramework\Core\Loc;
-use \liveeditor\LolitaFramework\Core\Cls;
-use \liveeditor\LolitaFramework;
+use \placeholderimages\LolitaFramework\Core\Loc;
+use \placeholderimages\LolitaFramework\Core\Cls;
+use \placeholderimages\LolitaFramework;
 use \Exception;
 
 class Configuration

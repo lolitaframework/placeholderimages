@@ -1,9 +1,9 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules;
+namespace placeholderimages\LolitaFramework\Configuration\Modules;
 
-use \liveeditor\LolitaFramework\Configuration\Configuration;
-use \liveeditor\LolitaFramework\Configuration\IModule;
-use \liveeditor\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Configuration\Configuration;
+use \placeholderimages\LolitaFramework\Configuration\IModule;
+use \placeholderimages\LolitaFramework\Core\Arr;
 
 class Actions implements IModule
 {

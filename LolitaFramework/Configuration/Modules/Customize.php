@@ -1,11 +1,11 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules;
+namespace placeholderimages\LolitaFramework\Configuration\Modules;
 
-use \liveeditor\LolitaFramework\Core\Data;
-use \liveeditor\LolitaFramework\Configuration\Configuration;
-use \liveeditor\LolitaFramework\Configuration\IModule;
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Core\Data;
+use \placeholderimages\LolitaFramework\Configuration\Configuration;
+use \placeholderimages\LolitaFramework\Configuration\IModule;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Str;
 
 class Customize implements IModule
 {

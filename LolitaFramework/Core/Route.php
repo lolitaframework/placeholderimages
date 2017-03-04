@@ -1,5 +1,5 @@
 <?php
-namespace liveeditor\LolitaFramework\Core;
+namespace placeholderimages\LolitaFramework\Core;
 
 class Route
 {

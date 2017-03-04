@@ -1,8 +1,8 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Radios;
+namespace placeholderimages\LolitaFramework\Controls\Radios;
 
-use \liveeditor\LolitaFramework\Controls\Control;
-use \liveeditor\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Controls\Control;
+use \placeholderimages\LolitaFramework\Core\Arr;
 
 class Radios extends Control
 {

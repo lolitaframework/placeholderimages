@@ -1,12 +1,12 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules;
+namespace placeholderimages\LolitaFramework\Configuration\Modules;
 
-use \liveeditor\LolitaFramework\Core\Str;
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\Ref;
-use \liveeditor\LolitaFramework\Configuration\Init;
-use \liveeditor\LolitaFramework\Configuration\Configuration;
-use \liveeditor\LolitaFramework\Configuration\IModule;
+use \placeholderimages\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Ref;
+use \placeholderimages\LolitaFramework\Configuration\Init;
+use \placeholderimages\LolitaFramework\Configuration\Configuration;
+use \placeholderimages\LolitaFramework\Configuration\IModule;
 
 class Taxonomies extends Init implements IModule
 {

@@ -1,10 +1,10 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules\Elements;
+namespace placeholderimages\LolitaFramework\Configuration\Modules\Elements;
 
-use \liveeditor\LolitaFramework\Core\Str;
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Configuration\Configuration;
-use \liveeditor\LolitaFramework\Controls\Controls;
+use \placeholderimages\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Configuration\Configuration;
+use \placeholderimages\LolitaFramework\Controls\Controls;
 
 class Taxonomy
 {

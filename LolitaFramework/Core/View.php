@@ -1,7 +1,7 @@
 <?php
-namespace liveeditor\LolitaFramework\Core;
+namespace placeholderimages\LolitaFramework\Core;
 
-use \liveeditor\LolitaFramework;
+use \placeholderimages\LolitaFramework;
 use \Exception;
 
 class View

@@ -1,11 +1,11 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls;
+namespace placeholderimages\LolitaFramework\Controls;
 
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\Ref;
-use \liveeditor\LolitaFramework\Core\Data;
-use \liveeditor\LolitaFramework\Core\Cls;
-use \liveeditor\LolitaFramework\Core\View;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Ref;
+use \placeholderimages\LolitaFramework\Core\Data;
+use \placeholderimages\LolitaFramework\Core\Cls;
+use \placeholderimages\LolitaFramework\Core\View;
 
 /**
  * Controls collection class

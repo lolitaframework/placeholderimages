@@ -1,10 +1,10 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Repeater;
+namespace placeholderimages\LolitaFramework\Controls\Repeater;
 
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\Url;
-use \liveeditor\LolitaFramework\Core\View;
-use \liveeditor\LolitaFramework\Controls\Controls;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Url;
+use \placeholderimages\LolitaFramework\Core\View;
+use \placeholderimages\LolitaFramework\Controls\Controls;
 
 /**
  * Customize Media Control class.

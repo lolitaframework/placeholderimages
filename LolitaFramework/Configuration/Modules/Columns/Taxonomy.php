@@ -1,5 +1,5 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules\Columns;
+namespace placeholderimages\LolitaFramework\Configuration\Modules\Columns;
 
 class Taxonomy extends Column
 {

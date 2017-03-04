@@ -1,13 +1,13 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Repeater;
+namespace placeholderimages\LolitaFramework\Controls\Repeater;
 
-use \liveeditor\LolitaFramework\Controls\Control;
-use \liveeditor\LolitaFramework\Controls\Controls;
-use \liveeditor\LolitaFramework\Controls\IHaveAdminEnqueue;
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\Url;
-use \liveeditor\LolitaFramework;
-use \liveeditor\LolitaFramework\Core\View;
+use \placeholderimages\LolitaFramework\Controls\Control;
+use \placeholderimages\LolitaFramework\Controls\Controls;
+use \placeholderimages\LolitaFramework\Controls\IHaveAdminEnqueue;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Url;
+use \placeholderimages\LolitaFramework;
+use \placeholderimages\LolitaFramework\Core\View;
 
 class Repeater extends Control implements iHaveAdminEnqueue
 {

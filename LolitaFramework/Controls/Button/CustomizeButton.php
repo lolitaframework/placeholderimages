@@ -1,9 +1,9 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Button;
+namespace placeholderimages\LolitaFramework\Controls\Button;
 
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\Url;
-use \liveeditor\LolitaFramework\Core\View;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Url;
+use \placeholderimages\LolitaFramework\Core\View;
 
 class CustomizeButton extends \WP_Customize_Control
 {

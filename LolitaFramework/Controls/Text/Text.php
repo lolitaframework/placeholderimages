@@ -1,8 +1,8 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Text;
+namespace placeholderimages\LolitaFramework\Controls\Text;
 
-use \liveeditor\LolitaFramework\Controls\Control;
-use \liveeditor\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Controls\Control;
+use \placeholderimages\LolitaFramework\Core\Arr;
 
 class Text extends Control
 {

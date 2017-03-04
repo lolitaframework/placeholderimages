@@ -1,6 +1,6 @@
 <?php
 
-namespace liveeditor\LolitaFramework\Core\Decorators;
+namespace placeholderimages\LolitaFramework\Core\Decorators;
 
 use \WP_Error;
 

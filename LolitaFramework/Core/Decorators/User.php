@@ -1,9 +1,9 @@
 <?php
 
-namespace liveeditor\LolitaFramework\Core\Decorators;
+namespace placeholderimages\LolitaFramework\Core\Decorators;
 
-use \liveeditor\LolitaFramework\Core\Str;
-use \liveeditor\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Core\Arr;
 use \Exception;
 use \WP_User;
 

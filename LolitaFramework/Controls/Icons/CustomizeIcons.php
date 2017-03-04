@@ -1,5 +1,5 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Icons;
+namespace placeholderimages\LolitaFramework\Controls\Icons;
 
 /**
  * Customize Media Control class.

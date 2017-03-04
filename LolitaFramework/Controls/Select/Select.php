@@ -1,8 +1,8 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Select;
+namespace placeholderimages\LolitaFramework\Controls\Select;
 
-use \liveeditor\LolitaFramework\Controls\Control;
-use \liveeditor\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Controls\Control;
+use \placeholderimages\LolitaFramework\Core\Arr;
 
 class Select extends Control
 {

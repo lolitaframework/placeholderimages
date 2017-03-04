@@ -1,8 +1,8 @@
 <?php
 
-namespace liveeditor\LolitaFramework\Core\Decorators;
+namespace placeholderimages\LolitaFramework\Core\Decorators;
 
-use \liveeditor\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Core\Str;
 use \Exception;
 
 class Img

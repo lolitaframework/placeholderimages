@@ -1,7 +1,7 @@
 <?php
-namespace liveeditor;
+namespace placeholderimages;
 
-use \liveeditor\LolitaFramework\Core\Url;
+use \placeholderimages\LolitaFramework\Core\Url;
 
 /**
  * Lolita Framework singlton class

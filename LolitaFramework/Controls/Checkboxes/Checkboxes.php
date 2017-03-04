@@ -1,8 +1,8 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Checkboxes;
+namespace placeholderimages\LolitaFramework\Controls\Checkboxes;
 
-use \liveeditor\LolitaFramework\Controls\Control;
-use \liveeditor\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Controls\Control;
+use \placeholderimages\LolitaFramework\Core\Arr;
 
 class Checkboxes extends Control
 {

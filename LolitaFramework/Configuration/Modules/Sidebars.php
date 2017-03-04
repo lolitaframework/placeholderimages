@@ -1,10 +1,10 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules;
+namespace placeholderimages\LolitaFramework\Configuration\Modules;
 
-use \liveeditor\LolitaFramework\Core\Str;
-use \liveeditor\LolitaFramework\Configuration\Init;
-use \liveeditor\LolitaFramework\Configuration\Configuration;
-use \liveeditor\LolitaFramework\Configuration\IModule;
+use \placeholderimages\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Configuration\Init;
+use \placeholderimages\LolitaFramework\Configuration\Configuration;
+use \placeholderimages\LolitaFramework\Configuration\IModule;
 
 class Sidebars extends Init implements IModule
 {

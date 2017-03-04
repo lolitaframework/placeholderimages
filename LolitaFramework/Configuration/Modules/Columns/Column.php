@@ -1,8 +1,8 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules\Columns;
+namespace placeholderimages\LolitaFramework\Configuration\Modules\Columns;
 
-use \liveeditor\LolitaFramework\Core\Str;
-use \liveeditor\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Core\Arr;
 use \Exception;
 
 abstract class Column

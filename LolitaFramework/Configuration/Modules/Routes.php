@@ -1,11 +1,11 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules;
+namespace placeholderimages\LolitaFramework\Configuration\Modules;
 
-use \liveeditor\LolitaFramework\Configuration\Configuration;
-use \liveeditor\LolitaFramework\Configuration\IModule;
-use \liveeditor\LolitaFramework\Core\Data;
-use \liveeditor\LolitaFramework\Core\Route;
-use \liveeditor\LolitaFramework\Core\Loc;
+use \placeholderimages\LolitaFramework\Configuration\Configuration;
+use \placeholderimages\LolitaFramework\Configuration\IModule;
+use \placeholderimages\LolitaFramework\Core\Data;
+use \placeholderimages\LolitaFramework\Core\Route;
+use \placeholderimages\LolitaFramework\Core\Loc;
 
 class Routes implements IModule
 {

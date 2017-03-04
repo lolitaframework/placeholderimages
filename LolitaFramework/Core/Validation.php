@@ -1,6 +1,6 @@
 <?php
 
-namespace liveeditor\LolitaFramework\Core;
+namespace placeholderimages\LolitaFramework\Core;
 
 use \Countable;
 use \DateTime;

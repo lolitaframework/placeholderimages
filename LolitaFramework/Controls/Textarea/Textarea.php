@@ -1,8 +1,8 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Textarea;
+namespace placeholderimages\LolitaFramework\Controls\Textarea;
 
-use \liveeditor\LolitaFramework\Controls\Control;
-use \liveeditor\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Controls\Control;
+use \placeholderimages\LolitaFramework\Core\Arr;
 
 class Textarea extends Control
 {

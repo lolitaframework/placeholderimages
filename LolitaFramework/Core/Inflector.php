@@ -1,6 +1,6 @@
 <?php
 
-namespace liveeditor\LolitaFramework\Core;
+namespace placeholderimages\LolitaFramework\Core;
 
 /**
  * Doctrine inflector has static methods for inflecting text.

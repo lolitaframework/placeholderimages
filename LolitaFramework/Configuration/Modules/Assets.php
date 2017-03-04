@@ -1,13 +1,13 @@
 <?php
-namespace liveeditor\LolitaFramework\Configuration\Modules;
+namespace placeholderimages\LolitaFramework\Configuration\Modules;
 
-use \liveeditor\LolitaFramework\Core\Str;
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\Loc;
-use \liveeditor\LolitaFramework\Core\Data;
-use \liveeditor\LolitaFramework\Configuration\Configuration;
-use \liveeditor\LolitaFramework\Configuration\IModule;
-use \liveeditor\LolitaFramework;
+use \placeholderimages\LolitaFramework\Core\Str;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Loc;
+use \placeholderimages\LolitaFramework\Core\Data;
+use \placeholderimages\LolitaFramework\Configuration\Configuration;
+use \placeholderimages\LolitaFramework\Configuration\IModule;
+use \placeholderimages\LolitaFramework;
 
 class Assets implements IModule
 {
@@ -214,7 +214,7 @@ class Assets implements IModule
      */
     public function styles($styles)
     {
-        $defaults = array( '', false, array(), false, 'all' );
+        $defaults = array( '', false, array(), false, 'none' );
         if (is_array($styles) && count($styles)) {
             foreach ($styles as $style) {
                 list($handle, $src, $deps, $ver, $media) = $style + $defaults;

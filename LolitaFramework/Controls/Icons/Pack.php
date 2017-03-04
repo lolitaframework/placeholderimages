@@ -1,10 +1,10 @@
 <?php
-namespace liveeditor\LolitaFramework\Controls\Icons;
+namespace placeholderimages\LolitaFramework\Controls\Icons;
 
-use \liveeditor\LolitaFramework\Core\Arr;
-use \liveeditor\LolitaFramework\Core\Loc;
-use \liveeditor\LolitaFramework\Core\Data;
-use \liveeditor\LolitaFramework\Core\View;
+use \placeholderimages\LolitaFramework\Core\Arr;
+use \placeholderimages\LolitaFramework\Core\Loc;
+use \placeholderimages\LolitaFramework\Core\Data;
+use \placeholderimages\LolitaFramework\Core\View;
 
 class Pack
 {
